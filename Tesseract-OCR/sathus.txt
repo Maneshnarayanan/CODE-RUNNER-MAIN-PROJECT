@@ -1,0 +1,4 @@
+Tnis Interface, most commonly reieneu to as “car, is me oldest and is supporled by nearty every web sewer am of tne hox Programs using CGI Io
+communicate with tneir web server need to be started by the sewer tor evely request so, every reqimt starts a new Pytnon interpleter — which tam
+some time to start up — tnus making the uncle intertaoe only usabte tor low load situations,
+

@@ -1,0 +1,24 @@
+»"‘1»«!}-*«. .4. ,0‘ A’~/-n
+
+Binarization  v
+7” 7’ ,,
+
+.,..;(;,‘.’§.A 7...',I.,.;’.....'
+
+.../... .., ,r..,,
+
+ 
+    
+
+El Document image binarization (thresholding) refers to the
+conversion of a gray-scale image into a binary image. Two
+categories of thresholding:
+
+- Global, picks one threshold value for the entire
+document image which is often based on an estimation
+of the background level from the intensity histogram of
+the image.
+
+- Adaptive (local), uses different values for each pixel
+according to the local area information
+
